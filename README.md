@@ -73,7 +73,7 @@ This was an **individual project**, where I handled:
 
 ## 🖼️ Dashboard Preview  
 
-![Dashboard Preview](https://raw.githubusercontent.com/yourusername/AtliQ-Hardware-Sales-Dashboard/main/Images/dashboard_preview.png)
+![Dashboard Preview](https://github.com/Vikasmyaka/Business-Insights-360/blob/main/Dashboard%20Preview/Home.png)
 
 > *The dashboard highlights company performance, product profitability, and regional insights — all in one interactive view.*
 
