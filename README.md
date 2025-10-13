@@ -86,9 +86,9 @@ This was an **individual project**, where I handled:
 
 ## 📬 Connect with Me  
 
-💼 **LinkedIn:** [Your LinkedIn Profile URL]  
-📧 **Email:** [Your Email Address]  
-🌐 **GitHub Portfolio:** [Your GitHub Profile Link]  
+💼 **LinkedIn:** [https://www.linkedin.com/in/vikas-myaka-5655bb22b/]  
+📧 **Email:** [myakavikas10@gmail.com]  
+🌐 **GitHub Portfolio:** [https://github.com/Vikasmyaka]  
 
 ---
 
