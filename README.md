@@ -1,10 +1,10 @@
-# 🧠 Business Insights 360 Sales Performance Dashboard  
+#  Business Insights 360 Sales Performance Dashboard  
 
 > *An interactive Power BI dashboard providing actionable insights into sales, profit, and regional performance metrics for AtliQ Hardware.*
 
 ---
 
-## 📊 Project Overview  
+##  Project Overview  
 This project showcases an **end-to-end Power BI sales analytics solution** for **AtliQ Hardware**, a computer hardware company.  
 The dashboard provides deep insights into **revenue, gross margin, profit trends, and key business metrics** to help stakeholders make **data-driven decisions**.  
 
@@ -12,29 +12,29 @@ The dashboard provides deep insights into **revenue, gross margin, profit trends
 
 ---
 
-## 🚀 Key Insights & Features  
-- ✅ **Comprehensive KPI Summary** – Revenue, Profit, Gross Margin %, and Net Sales.  
-- 📈 **Trend Analysis** – Year-over-year and month-over-month sales comparison.  
-- 🌍 **Regional Insights** – Performance by region, market, and customer segment.  
-- 🛒 **Product-Level Analysis** – Top-performing products and contribution to revenue.  
-- 💰 **Profitability Metrics** – Gross margin, cost insights, and profitability breakdown.  
-- 🎚️ **Interactive Filters** – Dynamic slicers for year, region, and customer selection.  
+##  Key Insights & Features  
+-  **Comprehensive KPI Summary** – Revenue, Profit, Gross Margin %, and Net Sales.  
+-  **Trend Analysis** – Year-over-year and month-over-month sales comparison.  
+-  **Regional Insights** – Performance by region, market, and customer segment.  
+-  **Product-Level Analysis** – Top-performing products and contribution to revenue.  
+-  **Profitability Metrics** – Gross margin, cost insights, and profitability breakdown.  
+-  **Interactive Filters** – Dynamic slicers for year, region, and customer selection.  
 
 ---
 
-## 🛠️ Tools & Technologies Used  
+##  Tools & Technologies Used  
 
 | Tool / Technology | Purpose |
 |--------------------|----------|
-| 🧩 **Power BI Desktop** | Dashboard design, data modeling, DAX measures |
-| ⚙️ **Power Query (M)** | Data cleaning and transformation |
-| 🗄️ **MySQL Database** | Data extraction and management |
-| 📊 **Microsoft Excel** | Data validation and initial exploration |
-| 🧮 **DAX Studio** | Performance optimization and query testing |
+|  **Power BI Desktop** | Dashboard design, data modeling, DAX measures |
+|  **Power Query (M)** | Data cleaning and transformation |
+|  **MySQL Database** | Data extraction and management |
+|  **Microsoft Excel** | Data validation and initial exploration |
+|  **DAX Studio** | Performance optimization and query testing |
 
 ---
 
-## 🧱 Project Workflow  
+##  Project Workflow  
 
 1. **Data Extraction** – Imported raw data from MySQL and Excel sources.  
 2. **Data Cleaning & Transformation** – Processed and shaped data in Power Query.  
@@ -45,11 +45,11 @@ The dashboard provides deep insights into **revenue, gross margin, profit trends
 
 ---
 
-## 💼 Business Impact  
+##  Business Impact  
 
-- 📊 Empowered management to **identify high-revenue and low-performing regions**.  
-- ⏱️ Reduced manual reporting time by **automating insight generation**.  
-- 💡 Improved **strategic decision-making** with real-time, interactive analytics.  
+-  Empowered management to **identify high-revenue and low-performing regions**.  
+-  Reduced manual reporting time by **automating insight generation**.  
+-  Improved **strategic decision-making** with real-time, interactive analytics.  
 
 ---
 
@@ -63,7 +63,7 @@ This was an **individual project**, where I handled:
 
 ---
 
-## 📘 Learnings & Highlights  
+##  Learnings & Highlights  
 
 - Mastered **complex DAX functions** (CALCULATE, FILTER, ALL, SAMEPERIODLASTYEAR, etc.).  
 - Strengthened skills in **data storytelling** and **visual design best practices**.  
@@ -71,7 +71,7 @@ This was an **individual project**, where I handled:
 
 ---
 
-## 🖼️ Dashboard Preview  
+##  Dashboard Preview  
 
 ![Dashboard Preview](https://github.com/Vikasmyaka/Business-Insights-360/blob/main/Dashboard%20Preview/Home.png)
 
@@ -79,17 +79,18 @@ This was an **individual project**, where I handled:
 
 ---
 
-## 🏷️ Tags  
+##  Tags  
 `Power BI` `Business Intelligence` `Data Analytics` `DAX` `SQL` `Data Visualization` `AtliQ Hardware` `Sales Dashboard`
 
 ---
 
-## 📬 Connect with Me  
+##  Connect with Me  
 
-💼 **LinkedIn:** [https://www.linkedin.com/in/vikas-myaka-5655bb22b/]  
-📧 **Email:** [myakavikas10@gmail.com]  
-🌐 **GitHub Portfolio:** [https://github.com/Vikasmyaka]  
+ **LinkedIn:** [https://www.linkedin.com/in/vikas-myaka-5655bb22b/]  
+ **Email:** [myakavikas10@gmail.com]  
+ **GitHub Portfolio:** [https://github.com/Vikasmyaka]  
 
 ---
 
-📝 *Note: The Power BI (.pbix) file is not included due to size limitations. You can explore the full interactive dashboard using the link above.*
+
+
