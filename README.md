@@ -4,7 +4,7 @@
 
 ---
 
-##  Project Overview  
+## ➤ Project Overview  
 This project showcases an **end-to-end Power BI sales analytics solution** for **AtliQ Hardware**, a computer hardware company.  
 The dashboard provides deep insights into **revenue, gross margin, profit trends, and key business metrics** to help stakeholders make **data-driven decisions**.  
 
@@ -12,7 +12,7 @@ The dashboard provides deep insights into **revenue, gross margin, profit trends
 
 ---
 
-##  Key Insights & Features  
+## ➤ Key Insights & Features  
 -  **Comprehensive KPI Summary** – Revenue, Profit, Gross Margin %, and Net Sales.  
 -  **Trend Analysis** – Year-over-year and month-over-month sales comparison.  
 -  **Regional Insights** – Performance by region, market, and customer segment.  
@@ -22,7 +22,7 @@ The dashboard provides deep insights into **revenue, gross margin, profit trends
 
 ---
 
-##  Tools & Technologies Used  
+## ➤ Tools & Technologies Used  
 
 | Tool / Technology | Purpose |
 |--------------------|----------|
@@ -34,7 +34,7 @@ The dashboard provides deep insights into **revenue, gross margin, profit trends
 
 ---
 
-##  Project Workflow  
+## ➤ Project Workflow  
 
 1. **Data Extraction** – Imported raw data from MySQL and Excel sources.  
 2. **Data Cleaning & Transformation** – Processed and shaped data in Power Query.  
@@ -45,7 +45,7 @@ The dashboard provides deep insights into **revenue, gross margin, profit trends
 
 ---
 
-##  Business Impact  
+## ➤ Business Impact  
 
 -  Empowered management to **identify high-revenue and low-performing regions**.  
 -  Reduced manual reporting time by **automating insight generation**.  
@@ -53,7 +53,7 @@ The dashboard provides deep insights into **revenue, gross margin, profit trends
 
 ---
 
-## 👨‍💻 Roles & Responsibilities  
+## ➤ Roles & Responsibilities  
 
 This was an **individual project**, where I handled:  
 - Data sourcing & cleaning  
@@ -63,7 +63,7 @@ This was an **individual project**, where I handled:
 
 ---
 
-##  Learnings & Highlights  
+## ➤ Learnings & Highlights  
 
 - Mastered **complex DAX functions** (CALCULATE, FILTER, ALL, SAMEPERIODLASTYEAR, etc.).  
 - Strengthened skills in **data storytelling** and **visual design best practices**.  
@@ -71,7 +71,7 @@ This was an **individual project**, where I handled:
 
 ---
 
-##  Dashboard Preview  
+## ➤ Dashboard Preview  
 
 ![Dashboard Preview](https://github.com/Vikasmyaka/Business-Insights-360/blob/main/Dashboard%20Preview/Home.png)
 
@@ -79,12 +79,12 @@ This was an **individual project**, where I handled:
 
 ---
 
-##  Tags  
+## ➤ Tags  
 `Power BI` `Business Intelligence` `Data Analytics` `DAX` `SQL` `Data Visualization` `AtliQ Hardware` `Sales Dashboard`
 
 ---
 
-##  Connect with Me  
+## ➤ Connect with Me  
 
  **LinkedIn:** [https://www.linkedin.com/in/vikas-myaka-5655bb22b/]  
  **Email:** [myakavikas10@gmail.com]  
