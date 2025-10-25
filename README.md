@@ -86,7 +86,7 @@ This was an **individual project**, where I handled:
 
 ## ➤ Connect with Me  
 
- **LinkedIn:** [https://www.linkedin.com/in/vikas-myaka-5655bb22b/]  
+ **LinkedIn:** [https://www.linkedin.com/in/vikasmyaka/]  
  **Email:** [myakavikas10@gmail.com]  
  **GitHub Portfolio:** [https://github.com/Vikasmyaka]  
 
